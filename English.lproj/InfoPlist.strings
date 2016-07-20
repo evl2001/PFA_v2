@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "PFA_v2";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "PFA_v2 version 1.0, Copyright (c) 2016 EM.";
+NSHumanReadableCopyright = "Copyright (c) 2016 EM.";
